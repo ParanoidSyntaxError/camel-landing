@@ -21,7 +21,7 @@ export default function Home() {
 			<div
 				className="absolute bottom-0 right-0 mr-12 mb-8 w-[26rem] h-fit px-8 py-2 bg-white border-4 border-black text-xl text-justify md:block hidden"
 			>
-				<p className="tracking-[0.09rem]">SURGEON GENERAL'S WARNING: Smoking</p>
+				<p className="tracking-[0.09rem]">{"SURGEON GENERAL'S WARNING: Smoking"}</p>
 				<p className="tracking-[0.105rem]">By Pregnant Women May Result in Fetal</p>
 				<p className="tracking-wide">Injury, Premature Birth, And Low Birth Weight.</p>
 			</div>
