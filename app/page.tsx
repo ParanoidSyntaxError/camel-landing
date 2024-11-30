@@ -52,7 +52,8 @@ export default function Home() {
 								className="md:text-2xl text-lg font-bold px-1"
 							>
 								<Link
-									href=""
+									href="https://x.com/camel_cto"
+									target="_blank"
 								>
 									Twitter
 								</Link>
@@ -86,7 +87,8 @@ export default function Home() {
 								className="md:text-2xl text-lg font-bold px-1"
 							>
 								<Link
-									href=""
+									href="https://t.me/camelctoportal"
+									target="_blank"
 								>
 									Telegram
 								</Link>
@@ -121,6 +123,7 @@ export default function Home() {
 							>
 								<Link
 									href="https://dexscreener.com/solana/f21m1tnwcgxz4zgyb2nyhusvmwnhv5cnapqfruv71s9k"
+									target="_blank"
 								>
 									DexScreener
 								</Link>
