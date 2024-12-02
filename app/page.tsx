@@ -148,7 +148,7 @@ export default function Home() {
 						ratio={1106 / 763}
 					>
 						<Image
-							src="/camel-joe-car.png"
+							src="/camel-joe-car-scaleup.png"
 							alt=""
 							fill
 							className="pointer-events-none select-none object-cover object-top"
