@@ -7,7 +7,7 @@ import Link from "next/link";
 export default function Home() {
 	return (
 		<div
-			className="w-screen h-screen overflow-hidden"
+			className="max-w-[100vw] max-h-[100vh] w-screen h-screen overflow-hidden"
 		>
 			<Image
 				src="/camel-sky.jpg"
